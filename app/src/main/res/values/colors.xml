@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff  </color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="black">#000000</color>
+    <color name="bluesky">#00BFFF</color>
+    <color name="blue_link"> #0000ff</color>
+    <color name="gold">#FFD700</color>
+    <color name="orange">#FFA500</color>
+    <color name="dark_orange">#FF8C00</color>
+    <color name="dark_ocean">#1197F0</color>
+    <color name="mid_ocean">#AED6F1</color>
+
+</resources>

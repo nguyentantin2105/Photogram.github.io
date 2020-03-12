@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Fragment names -->
+    <string name="app_name">PhoGram</string>
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="sign_out_fragment">Sign Out</string>
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+    <string name="string_open_camera">OPEN CAMERA</string>
+    <string name="string_next">Next</string>
+    <string name="view_post_fragment">View Post</string>
+    <string name="view_profile_fragment">ViewProfile</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="view_comments_fragment">View Comments</string>
+    <string name="home_fragment">Home</string>
+    <string name="change_password_fragment">Change Password</string>
+    <string name="delete_account_fragment">Delete Account</string>
+
+    <!-- Firebase Database Fields-->
+    <string name="db_users">users</string>
+    <string name="db_user_account_settings">user_account_settings</string>
+    <string name="field_username">username</string>
+    <string name="field_displayname">display_name</string>
+    <string name="field_descriptions">descriptions</string>
+    <string name="field_phone_number">phone_number</string>
+    <string name="db_users_photo">users_photo</string>
+    <string name="db_photos">photos</string>
+    <string name="new_photo">new_photo</string>
+    <string name="profile_photo">profile_photo</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_likes">likes</string>
+    <string name="field_caption">caption</string>
+    <string name="field_date_created">date_created</string>
+    <string name="field_photo_id">photo_id</string>
+    <string name="field_tags">tags</string>
+    <string name="field_image_path">image_path</string>
+    <string name="field_comments">comments</string>
+    <string name="dbname_following">following</string>
+    <string name="dbname_followers">followers</string>
+
+    <!-- Intent Extra-->
+    <string name="calling_activity">calling_activity</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+    <string name="selected_image">selected_image</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+    <string name="intent_user">intent_user</string>
+
+    <!--Bundle arg names-->
+    <string name="activity_number">activity_number</string>
+    <string name="bundle_photo">bundle_photo</string>
+    <string name="bundle_user_account_settings">bundle_user_account_settings</string>
+
+    <!-- Activity name -->
+    <string name="profile_activity">Profile Activity</string>
+    <string name="search_activity">Search Activity</string>
+    <string name="home_activity">Home Activity</string>
+
+    <!--Notification-->
+    <string name="channel_name">PhotoGram</string>
+    <string name="channel_description">CSE</string>
+</resources>
